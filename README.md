@@ -20,13 +20,14 @@ those are the core values that should be taken under consideration:
 
 Designing a language for developers.
 
-1. It should be powerful, yet easy.
-2. It should be tools to inspect the entire code in the IDE.
-3. It should allow developers to use static typing but (hopefully) should be optional.
-4. It should able to be interpreted to avoid the developers waiting for compiling time, or better, should be able to support realtime code hot swapping to avoid restarting the app on code changes (and then it could be compiled)
-5. It should allow for developers, if possible, to reuse code from other languages inline in the code as blocks, or import them from other files. to allow developers mix and enjoy the benefits of other languages. 
-6. It should be extensible.
-7. It should have a decent modern ecosystem. for example: decent package-manager.
+* It should be powerful, yet easy.
+* It should be tools to inspect the entire code in the IDE.
+* It should allow developers to use static typing but (hopefully) should be optional.
+* It should let developer decide the formatting. they should be able to split the lines however they want. no need for any special line to break. no ident or any other formatting restrictions.
+* It should able to be interpreted to avoid the developers waiting for compiling time, or better, should be able to support realtime code hot swapping to avoid restarting the app on code changes (and then it could be compiled)
+* It should allow for developers, if possible, to reuse code from other languages inline in the code as blocks, or import them from other files. to allow developers mix and enjoy the benefits of other languages. 
+* It should be extensible.
+* It should have a decent modern ecosystem. for example: decent package-manager.
 
 ### FAST!
 
